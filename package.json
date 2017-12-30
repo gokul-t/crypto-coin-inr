@@ -1,0 +1,28 @@
+{
+  "name": "crypto-coin-inr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gokult",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokul-t/crypto-coin-inr.git"
+  },
+  "keywords": [
+    "koinex",
+    "coinmarketcap"
+  ],
+  "bugs": {
+    "url": "https://github.com/gokul-t/crypto-coin-inr/issues"
+  },
+  "homepage": "https://github.com/gokul-t/crypto-coin-inr#readme",
+  "description": ""
+}
